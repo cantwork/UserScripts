@@ -30,4 +30,4 @@
   // 将<div>元素添加到文档的<body>部分
   document.body.appendChild(divElement);
 
-})
+})();
