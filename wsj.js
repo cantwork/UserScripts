@@ -13,7 +13,7 @@
   var styleElement = document.createElement('style');
   
   styleElement.innerHTML = `
-    #cx-candybar {
+    #cx-candybar,amp-subscriptions-dialog,.login-section-container {
       display: none!important;
       height: 0!important;
     }
