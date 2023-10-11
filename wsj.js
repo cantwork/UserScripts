@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name            rm wsj bottom box
 // @version         0.1
 // @downloadURL     https://raw.githubusercontent.com/cantwork/UserScripts/main/wsj.js
