@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name            rm wsj bottom box
-// @version         0.1
+// @name            rmwsj bottombox
+// @version         1.0
 // @downloadURL     https://raw.githubusercontent.com/cantwork/UserScripts/main/wsj.js
 // @updateURL       https://raw.githubusercontent.com/cantwork/UserScripts/main/wsj.js
-// @match         *://*.wsj.com/*
+// @license         MIT
+// @match           *://*.com/*
+// @match           *://*.wsj.com/*
 // ==/UserScript==
 
 (function() {
